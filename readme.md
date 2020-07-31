@@ -1,4 +1,4 @@
-# Lab2: CPU Scheduling Simulation
+# CPU Scheduling Simulation
 
 * Author: Dominik Huffield
 * Class: CS 321
